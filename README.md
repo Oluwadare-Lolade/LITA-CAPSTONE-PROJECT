@@ -21,13 +21,53 @@ This is where I documented my LITA Capstone Project while learning Data Analysis
 [Recommendations](#recommendations) 
 
 
-###Project Overview
+### Project Overview
 ---
 This Data Analysis Project aims to gain insights into the sales performance over the past years. By Analysing the data using the various variables and parameters given, actionable insights will be gathered to make data driven decisions and to know the products with the best performances.
 
-###Data Sources
+### Data Sources
 ---
 The primary source of data used here is an excel file (LITA Capstone Dataset) which was provided by the Incubator Hub for the purpose of this Capstone Project.
+
+### Tools used
+---
+The Analysis was performed using different Analysis tools which are;
+- Excel
+1. For Data Cleaning
+2. Data Visualization
+   
+- SQL- Structured Query Language for querying data 
+
+- Power BI
+1. Data Cleaning 
+2. Data Analysis
+3. Data Visualization
+    
+- Github for Portfolio Building.
+  
+### Data Cleaning and Preparations
+---
+During Data cleaning, the following actions were performed;
+- Data Loading and Inspection 
+- Data formatting
+- Data formatting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
