@@ -65,6 +65,21 @@ retrieve the total sales for each product category.
 ```SQL
 Select TotalSales from SalesData$ 
 Where Product = 'Shoes'
+
+Select TotalSales from SalesData$ 
+Where Product = 'Hat'
+
+Select TotalSales from SalesData$ 
+Where Product = 'Jacket'
+
+Select TotalSales from SalesData$ 
+Where Product = 'Shirt'
+
+Select TotalSales from SalesData$ 
+Where Product = 'Socks'
+
+Select TotalSales from SalesData$ 
+Where Product = 'Gloves'
 '''
 
 
