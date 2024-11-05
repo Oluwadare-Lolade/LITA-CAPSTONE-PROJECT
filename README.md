@@ -87,7 +87,8 @@ Total Sales = Quantity*Unit Price
 =F2*G2
 ```
 
-### Data Visualizations and Insights 
+### Data Visualizations and Insights
+---
 - EXCEL
 ![LITA CAPSTONE PROJECT EXCEL](https://github.com/user-attachments/assets/3f0d8fbe-d06a-44fe-ac06-a734515173a0)
 
@@ -99,6 +100,7 @@ Total Sales = Quantity*Unit Price
 This is an Interactive dashboard that a Total Sales of 11M was made from 6 Products with a total of 160Million Revenue. A total of 50 thousands orders were received where it was observed that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales. The Product 'Hat' had the highest quantity sold followed by 'Shoes' which also contributed significantly to the Total Sales. The highest Sales came from the South region and the other regions had proportionate sales. A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. A positive linear relationship was also observed between Total Sales and Revenue made by the company.
 
 ### Recommendations
+---
 The marketing strategy that was used in the region with the highest sales can be employed in other regions to boost their sales tereby increasing the company's revenue.
 The products with Low Sales and Small quantity sold ( Socks, Jackets) can be looked into to better understand the decline in sales and understand the market for such products.
 
