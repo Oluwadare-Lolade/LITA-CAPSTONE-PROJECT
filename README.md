@@ -59,6 +59,13 @@ EDA involved exploring the data to answer some questions about the data which ar
 - Which product has the highest sales?
 - Which product has the highest quantity sold?
 
+### Data Analysis 
+---
+retrieve the total sales for each product category.
+```SQL
+Select TotalSales from SalesData$ 
+Where Product = 'Shoes'
+'''
 
 
 
