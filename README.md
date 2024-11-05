@@ -82,6 +82,15 @@ Select TotalSales from SalesData$
 Where Product = 'Gloves'
 '''
 
+``` EXCEL
+Total Sales = Quantity*Unit Price 
+=F2*G2
+```
+
+### Data Visualizations and Insights 
+- EXCEL
+
+
 
 
 
