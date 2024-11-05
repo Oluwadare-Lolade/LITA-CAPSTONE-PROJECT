@@ -52,6 +52,12 @@ During Data cleaning, the following actions were performed;
 - Data formatting
 - Data formatting
 
+### Exploratory Data Analysis 
+---
+EDA involved exploring the data to answer some questions about the data which are;
+- Which region has the best sales?
+- Which product has the highest sales?
+- Which product has the highest quantity sold?
 
 
 
