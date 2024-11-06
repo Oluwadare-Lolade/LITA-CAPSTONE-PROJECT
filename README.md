@@ -92,14 +92,18 @@ Total Sales = Quantity*Unit Price
 - EXCEL
   
 This chart shows the Total Sales for each product where it was seen that the product 'Shoes has the highest sales while 'Socks has the least sales.
-
-  
+ 
 ![Sales by Product](https://github.com/user-attachments/assets/ed78ffc5-1078-42b7-a3cf-8ce6c42bed48)
 
 ---
+This chart shows the Total Sales for each region and it was observed that the South Region has the highest sales. 
 
+![Sales by Region](https://github.com/user-attachments/assets/8dd9e233-25d1-493b-800b-e95b0f30ad1e)
 
-![Revenue by Region](https://github.com/user-attachments/assets/a5cd1297-7eb5-4726-8b23-971ddfe44fe5)
+---
+The highest sales was made in February which was followed by a decrease in the following months. An increase was also observed June. July and August.
+
+![Sales by Month](https://github.com/user-attachments/assets/69e05bd2-b616-4792-b634-1a0c696db4bc)
 
 
 
