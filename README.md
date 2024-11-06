@@ -105,6 +105,16 @@ The highest sales was made in February which was followed by a decrease in the f
 
 ![Sales by Month](https://github.com/user-attachments/assets/69e05bd2-b616-4792-b634-1a0c696db4bc)
 
+---
+It was observed that the Revenue generated was equal throughout the month
+
+![Revenue by Region](https://github.com/user-attachments/assets/05028f6e-01d9-45f3-b123-3bb03e9f8c1c)
+
+This chart shows that the Product 'Shirt' has the highest Average Sales.
+
+![Average Sales by Product](https://github.com/user-attachments/assets/eab8a187-6e58-4a00-bdd4-653e0a982aa8)
+
+
 
 
 
