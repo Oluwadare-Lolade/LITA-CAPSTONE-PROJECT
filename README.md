@@ -90,7 +90,17 @@ Total Sales = Quantity*Unit Price
 ### Data Visualizations and Insights
 ---
 - EXCEL
-![LITA CAPSTONE PROJECT EXCEL](https://github.com/user-attachments/assets/3f0d8fbe-d06a-44fe-ac06-a734515173a0)
+  
+This chart shows the Total Sales for each product where it was seen that the product 'Shoes has the highest sales while 'Socks has the least sales.
+
+  
+![Sales by Product](https://github.com/user-attachments/assets/ed78ffc5-1078-42b7-a3cf-8ce6c42bed48)
+
+---
+
+
+![Revenue by Region](https://github.com/user-attachments/assets/a5cd1297-7eb5-4726-8b23-971ddfe44fe5)
+
 
 
 
