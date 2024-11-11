@@ -155,8 +155,8 @@ A sharp decline in Total Sales was observed in the year 2024 compared to 2023 wh
 
 ### Recommendations
 ---
-The marketing strategy that was used in the region with the highest sales can be employed in other regions to boost their sales tereby increasing the company's revenue.
-The products with Low Sales and Small quantity sold ( Socks, Jackets) can be looked into to better understand the decline in sales and understand the market for such products.
+- The marketing strategy that was used in the region with the highest sales can be employed in other regions to boost their sales thereby increasing the company's revenue. 
+- The products with Low Sales and Small quantity sold ( Socks, Jackets) can be looked into to better understand the decline in sales and understand the market for such products.
 
 
 
