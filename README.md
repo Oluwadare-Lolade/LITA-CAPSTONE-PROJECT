@@ -95,7 +95,7 @@ Total Sales = Quantity*Unit Price
 ---
 - EXCEL
   
-This chart shows the Total Sales for each product where it was seen that the product 'Shoes has the highest sales while 'Socks has the least sales.
+This chart shows the Total Sales for each product where it was seen that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales.
  
 ![Sales by Product](https://github.com/user-attachments/assets/ed78ffc5-1078-42b7-a3cf-8ce6c42bed48)
 
@@ -135,15 +135,17 @@ it was observed that the quantity of products ordered where equally the same for
 ![Quantity by subscription type](https://github.com/user-attachments/assets/619c52aa-5b1a-469e-8fac-64ad1a1ac616)
 
 ---
-This explains the relationship among Quantity, Total Sales and Revenue in different regions. It was observed that as the quanity increases, the total sales and revenue increased per region.
+This explains the relationship between Quantity, Total Sales and Revenue in different regions. A positive linear relationship was also observed between Quantity, Total Sales and Revenue made by the company. This shows that as the quanity increases, the total sales and revenue increased per region.
 
 ![Quantity, Total Sales, Revenue by Region](https://github.com/user-attachments/assets/ba93fe98-19c1-41b0-87f4-f09c5d1a2a30)
 
+---
+Alot of Hats were sold which maybe owing to the fact that it has low unit price compared to products like Shoes, Jacket and Shirt. 
 
+![Quantity by product](https://github.com/user-attachments/assets/5c41e8ab-f68c-485a-8a8b-2498a5aba49d)
 
-
-where it was observed that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales. The Product 'Hat' had the highest quantity sold followed by 'Shoes' which also contributed significantly to the Total Sales. The highest Sales came from the South region and the other regions had proportionate sales. A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. A positive linear relationship was also observed between Total Sales and Revenue made by the company.
-
+---
+A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. 
 
 ![Capstone Project LITA PowerBI Dashboard](https://github.com/user-attachments/assets/dbc93791-9cdc-45d4-908d-f3e201b4afe3)
 
