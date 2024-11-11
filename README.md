@@ -94,7 +94,7 @@ Total Sales = Quantity*Unit Price
 ---
 - EXCEL
   
-This chart shows the Total Sales for each product where it was seen that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales.
+This chart shows the Total Sales for each product where it was seen that the product 'Shoes' made the highest sales for the company while 'Socks' contributed the least to the sales.
  
 ![Sales by Product](https://github.com/user-attachments/assets/ed78ffc5-1078-42b7-a3cf-8ce6c42bed48)
 
@@ -104,12 +104,12 @@ This chart shows the Total Sales for each region and it was observed that the So
 ![Sales by Region](https://github.com/user-attachments/assets/8dd9e233-25d1-493b-800b-e95b0f30ad1e)
 
 ---
-The highest sales was made in February which was followed by a decrease in the following months. An increase was also observed June. July and August.
+The highest sales was made in February which was followed by a decrease in the following months. An increase was also observed June, July and August.
 
 ![Sales by Month](https://github.com/user-attachments/assets/69e05bd2-b616-4792-b634-1a0c696db4bc)
 
 ---
-It was observed that the Revenue generated was equal throughout the month
+It was observed that the Revenue generated was equal throughout the month.
 
 ![Revenue by Region](https://github.com/user-attachments/assets/05028f6e-01d9-45f3-b123-3bb03e9f8c1c)
 
@@ -146,7 +146,11 @@ Alot of Hats were sold which maybe owing to the fact that it has low unit price 
 ---
 A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. 
 
-![Capstone Project LITA PowerBI Dashboard](https://github.com/user-attachments/assets/dbc93791-9cdc-45d4-908d-f3e201b4afe3)
+![Total sales by year](https://github.com/user-attachments/assets/443eb6df-ae61-41e3-a357-3285d7df9153)
+
+- POWER BI DASHBOARD
+
+![LITA CAPSTONE POWER BI DASHBOARD](https://github.com/user-attachments/assets/850b4043-9391-4744-9afb-f3401a50f408)
 
 
 ### Recommendations
