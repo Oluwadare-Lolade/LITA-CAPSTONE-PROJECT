@@ -50,7 +50,6 @@ The Analysis was performed using different Analysis tools which are;
 During Data cleaning, the following actions were performed;
 - Data Loading and Inspection 
 - Data formatting
-- Data formatting
 
 ### Exploratory Data Analysis 
 ---
