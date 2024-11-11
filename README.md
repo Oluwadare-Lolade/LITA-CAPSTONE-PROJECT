@@ -122,7 +122,7 @@ This chart shows that the Product 'Shirt' has the highest Average Sales.
 - POWER BI
 
 ---
-This is an Interactive dashboard that a Total Sales of 11 Millions was made from 6 Products with a total of 160 Millions Revenue. A total of 50 thousands orders were received where it was observed that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales. The Product 'Hat' had the highest quantity sold followed by 'Shoes' which also contributed significantly to the Total Sales. The highest Sales came from the South region and the other regions had proportionate sales. A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. A positive linear relationship was also observed between Total Sales and Revenue made by the company.
+This is an Interactive dashboard that shows  that a Total Sales of 11 Millions was made from 6 Products with a total of 160 Millions Revenue. A total of 50 thousands orders were received where it was observed that the product 'Shoes' made the highest sales for the company while 'Socks' contributed least to the sales. The Product 'Hat' had the highest quantity sold followed by 'Shoes' which also contributed significantly to the Total Sales. The highest Sales came from the South region and the other regions had proportionate sales. A sharp decline in Total Sales was observed in the year 2024 compared to 2023 which implies that more revenue came in year 2023 compared to 2024. A positive linear relationship was also observed between Total Sales and Revenue made by the company.
 
 
 ![Capstone Project LITA PowerBI Dashboard](https://github.com/user-attachments/assets/dbc93791-9cdc-45d4-908d-f3e201b4afe3)
